@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SchoolMarks
+comment1.params=
+comment1.target=SchoolMarks()
+comment2.params=
+comment2.target=void\ studentOrStaff()
+comment3.params=
+comment3.target=void\ adminLoginCheck()
+comment4.params=
+comment4.target=void\ checkOrAddMarks()
+comment5.params=
+comment5.target=void\ studentLoginCheck()
+comment6.params=
+comment6.target=void\ enrollInClasses()
+comment7.params=
+comment7.target=void\ viewStudentGrades()
+comment8.params=
+comment8.target=void\ checkStudentMarks()
+comment9.params=
+comment9.target=void\ enterStudentMarks()
+numComments=10

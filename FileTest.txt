@@ -1,0 +1,9 @@
+ORDER:
+
+Admin log in to enter student score details 
+
+Admin get prompt if they want to check student score details 
+
+Student log in to check score details
+
+Student enrol into new classes 
